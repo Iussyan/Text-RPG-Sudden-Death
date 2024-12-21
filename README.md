@@ -1,9 +1,9 @@
 # Text-RPG-Sudden-Death
-- Text RPG ver. 0.1 ALPHA
-- The title "Sudden Death" is tentative and may change as the game develops.
+## Text RPG ver. 0.1 ALPHA
+### The title "Sudden Death" is tentative and may change as the game develops.
 
 # STORYLINE
-- (STORYLINE IS TO BE DEFINED ONCE IT HAS A PRESENTABLE PLOT)
+> (STORYLINE IS TO BE DEFINED ONCE IT HAS A PRESENTABLE PLOT)
 
 # MECHANICS
 - (TO BE DEFINED)
