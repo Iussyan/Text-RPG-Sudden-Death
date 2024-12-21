@@ -1,20 +1,21 @@
 # Text-RPG-Sudden-Death
-First iteration of my game: Text RPG ver. 0.1 ALPHA
+# Text RPG ver. 0.1 ALPHA
 
 The title "Sudden Death" is tentative and may change as the game develops.
 
--- STORYLINE --
+# -- STORYLINE --
 
 (STORYLINE IS TO BE DEFINED ONCE IT HAS A PRESENTABLE PLOT)
 
--- MECHANICS --
+# -- MECHANICS --
 
 (TO BE DEFINED)
 
--- WHAT TO EXPECT --
+# -- WHAT TO EXPECT --
+- Runnable by an IDE or via Command Prompt
+- All of the prompts: storyline texts and inputs are in CONSOLE (or in OUTPUT Window of your IDE)
+(MORE TO FOLLOW)
 
-(TO BE DEFINED)
-
--- CREDITS --
+# -- CREDITS --
 
 (TO BE DEFINED)
