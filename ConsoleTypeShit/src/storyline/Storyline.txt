@@ -1,0 +1,49 @@
+Map: The Mountains
+
+Room: 1
+Loc: Base Camp
+Desc: A safe haven nestled at the foot of The Mountains. Base Camp offers a respite for weary travelers,
+Desc: with a campfire for warmth and rest. It's a good place to prepare for the challenges ahead.
+Threat: None. This is a safe zone.
+Direction: North: Northern Ridge
+Tips: Heal before venturing further.
+Tips: Learn the basics of combat and explore the surrounding area.
+
+Room: 2
+Loc: Northern Ridge
+Desc: A rugged and treacherous path winding up the northern slopes of The Mountains. This area is teeming with wild creatures, 
+Desc: making it a challenging but rewarding training ground for aspiring adventurers.
+Threat: Common enemies (level 1-5)
+Direction: South: Base Camp
+Direction: West: Western Ridge
+Tips: Gain experience and level up by battling the creatures here.
+Tips: Be cautious of ambushes and use your surroundings to your advantage.
+
+Room: 3
+Loc: Western Ridge
+Desc: A winding path that leads further into The Mountains, offering breathtaking views and challenging encounters. 
+Desc: This area is home to more formidable creatures, testing the skills of even experienced adventurers.
+Threat: Level 5-10 enemies
+Direction: East: Northern Ridge
+Direction: South: Shop
+Direction: West: Summit
+Tips: Use your skills and strategies to overcome the tougher enemies.
+Tips: Consider purchasing better equipment at the Shop before venturing further.
+
+Room: 4
+Loc: Shop
+Desc: A small, cozy shop nestled in a hidden alcove on the western slopes. The Shop offers basic armor and potions for gold, 
+Desc: providing essential aid for adventurers facing the challenges of The Mountains.
+Threat: None.
+Direction: North: Western Ridge
+Tips: Purchase armor and potions to enhance your defenses and health.
+Tips: Save some gold for later upgrades as you progress through The Mountains.
+
+Room: 5
+Loc: The Summit
+Desc: The pinnacle of The Mountains, a breathtaking vista overlooking the surrounding lands. 
+Desc: This area is home to the most formidable creatures, guarding the summit with deadly strength.
+Threat: Level 10-21 enemies
+Direction: East: Western Ridge
+Tips: Prepare for a challenging final battle against the guardians of the summit.
+Tips: Use your skills and strategies wisely to overcome the formidable enemies.
